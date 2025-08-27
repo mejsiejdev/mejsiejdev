@@ -1,4 +1,4 @@
-## Hi! I'm Maciej 👋<br><br>🛡️ Cybersecurity student at Wrocław University of Science and Technology<br/><br>📝 Frontend Developer at [Solvro Science Club](https://github.com/Solvro)<br/><br>🌐 I create web applications!<br/><br>
+## Hi! I'm Maciej 👋<br><br>🛡️ Cybersecurity student at [Wrocław University of Science and Technology](https://pwr.edu.pl/en/)<br/><br>📝 Frontend Developer at [Solvro Science Club](https://github.com/Solvro)<br/><br>🌐 I create web applications!<br/><br>
 
 
 # 💻 Tech Stack:
